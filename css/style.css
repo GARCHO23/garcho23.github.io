@@ -1,0 +1,24 @@
+/*font-family: 'Yanone Kaffeesatz', sans-serif;
+/*font-family: 'Poiret One', cursive;
+/*font-family: 'Gloria Hallelujah', cursive;
+*/
+
+contenidos{
+width: 1000px;
+height: auto;
+margin: auto;
+position: relative;
+background: green;
+
+}
+
+body{
+background-image: url(../img/hormigon.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+
+
+
