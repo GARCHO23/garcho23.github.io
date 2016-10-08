@@ -35,7 +35,7 @@ font-family: 'Franklin Gothic Book', cursive;
 color: rgb(98, 101, 103);
 margin-left: 10px;
 font-size: 30px;
-text-align: left;
+text-align: left; 
 }
 h3{
 font-family: 'Franklin Gothic Book', cursive;
@@ -80,7 +80,7 @@ li{
 section{
 	width: 700px;
 	background: rgb( 229, 231, 233 );
-	height: 600px;
+	height: 1000px;
 	float: left;
 	margin-top: 20px;
 	border-radius: 10px;
@@ -89,7 +89,7 @@ section{
 aside{
 	width: 280px;
 	background: rgb( 229, 231, 233 );
-	height: 600px;
+	height: 1000px;
 	float: left;
 	margin-left: 20px;
 	margin-top: 20px;
